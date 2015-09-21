@@ -1,0 +1,33 @@
+{
+  "name": "nginx_service_test",
+  "description": "Installs/Configures nginx_service_test",
+  "long_description": "Installs/Configures nginx_service_test",
+  "maintainer": "Mike Fiedler",
+  "maintainer_email": "miketheman@gmail.com",
+  "license": "apache2",
+  "platforms": {
+  },
+  "dependencies": {
+    "apt": ">= 0.0.0",
+    "nginx": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": ""
+}

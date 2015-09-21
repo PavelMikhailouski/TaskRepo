@@ -1,0 +1,71 @@
+[2015-09-21T14:07:13-04:00] INFO: Forking chef instance to converge...
+[2015-09-21T14:07:13-04:00] DEBUG: Fork successful. Waiting for new chef pid: 9361
+[2015-09-21T14:07:13-04:00] DEBUG: Forked instance now converging
+[2015-09-21T14:07:13-04:00] INFO: *** Chef 12.4.1 ***
+[2015-09-21T14:07:13-04:00] INFO: Chef-client pid: 9361
+[2015-09-21T14:07:13-04:00] DEBUG: Chef-client request_id: 0690e847-f36b-4476-800e-fb211642abbc
+[2015-09-21T14:07:15-04:00] DEBUG: Building node object for vm2
+[2015-09-21T14:07:15-04:00] DEBUG: Extracting run list from JSON attributes provided on command line
+[2015-09-21T14:07:15-04:00] INFO: Setting the run_list to ["recipe[nginx::default]", "recipe[iptables::default]"] from CLI options
+[2015-09-21T14:07:15-04:00] DEBUG: Applying attributes from json file
+[2015-09-21T14:07:15-04:00] DEBUG: Platform is centos version 6.6
+[2015-09-21T14:07:15-04:00] INFO: Run List is [recipe[nginx::default], recipe[iptables::default]]
+[2015-09-21T14:07:15-04:00] INFO: Run List expands to [nginx::default, iptables::default]
+[2015-09-21T14:07:15-04:00] INFO: Starting Chef Run for vm2
+[2015-09-21T14:07:15-04:00] INFO: Running start handlers
+[2015-09-21T14:07:15-04:00] INFO: Start handlers complete.
+[2015-09-21T14:07:15-04:00] DEBUG: No chefignore file found at /root/chefignore no files will be ignored
+[2015-09-21T14:07:15-04:00] DEBUG: Cookbooks to compile: [:nginx, :iptables]
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook nginx's library file: /root/chef_cookbooks/nginx-3.0.0-rewrite/libraries/helpers.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook nginx's library file: /root/chef_cookbooks/nginx-3.0.0-rewrite/libraries/matchers.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook nginx's library file: /root/chef_cookbooks/nginx-3.0.0-rewrite/libraries/provider_nginx_service_base.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook nginx's library file: /root/chef_cookbooks/nginx-3.0.0-rewrite/libraries/provider_nginx_service_sysvinit.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook nginx's library file: /root/chef_cookbooks/nginx-3.0.0-rewrite/libraries/provider_nginx_service_upstart.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook nginx's library file: /root/chef_cookbooks/nginx-3.0.0-rewrite/libraries/resource_nginx_service.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook iptables's providers from /root/chef_cookbooks/iptables/providers/rule.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loaded contents of /root/chef_cookbooks/iptables/providers/rule.rb into provider iptables_rule (LWRP provider iptables_rule from cookbook iptables)
+[2015-09-21T14:07:15-04:00] DEBUG: Loading cookbook iptables's resources from /root/chef_cookbooks/iptables/resources/rule.rb
+[2015-09-21T14:07:15-04:00] DEBUG: Loaded contents of /root/chef_cookbooks/iptables/resources/rule.rb into resource iptables_rule (LWRP resource iptables_rule from cookbook iptables)
+[2015-09-21T14:07:15-04:00] DEBUG: Loading Recipe nginx::default via include_recipe
+[2015-09-21T14:07:15-04:00] DEBUG: Found recipe default in cookbook nginx
+[2015-09-21T14:07:15-04:00] DEBUG: Loading Recipe iptables::default via include_recipe
+[2015-09-21T14:07:15-04:00] DEBUG: Found recipe default in cookbook iptables
+[2015-09-21T14:07:15-04:00] DEBUG: Resources for generic package resource enabled on node include: [Chef::Resource::YumPackage, Chef::Resource::Package]
+[2015-09-21T14:07:15-04:00] DEBUG: Resource for package is Chef::Resource::YumPackage
+[2015-09-21T14:07:15-04:00] DEBUG: Resources for generic execute resource enabled on node include: [Chef::Resource::Execute]
+[2015-09-21T14:07:15-04:00] DEBUG: Resource for execute is Chef::Resource::Execute
+[2015-09-21T14:07:15-04:00] DEBUG: Resources for generic directory resource enabled on node include: [Chef::Resource::Directory]
+[2015-09-21T14:07:15-04:00] DEBUG: Resource for directory is Chef::Resource::Directory
+[2015-09-21T14:07:15-04:00] DEBUG: Resources for generic template resource enabled on node include: [Chef::Resource::Template]
+[2015-09-21T14:07:15-04:00] DEBUG: Resource for template is Chef::Resource::Template
+[2015-09-21T14:07:15-04:00] DEBUG: Loading from cookbook_path: /root/chef_cookbooks
+[2015-09-21T14:07:15-04:00] DEBUG: Converging node vm2
+[2015-09-21T14:07:15-04:00] INFO: Processing yum_package[iptables] action install (iptables::default line 23)
+[2015-09-21T14:07:15-04:00] DEBUG: Providers for generic yum_package resource enabled on node include: [Chef::Provider::Package::Yum]
+[2015-09-21T14:07:15-04:00] DEBUG: Provider for action install on resource yum_package[iptables] is Chef::Provider::Package::Yum
+[2015-09-21T14:07:22-04:00] DEBUG: yum_package[iptables] checking yum info for iptables
+[2015-09-21T14:07:22-04:00] DEBUG: yum_package[iptables] installed version: ["1.4.7-14.el6"] candidate version: 1.4.7-16.el6
+[2015-09-21T14:07:22-04:00] DEBUG: yum_package[iptables] iptables 1.4.7-14.el6 already installed
+[2015-09-21T14:07:22-04:00] DEBUG: yum_package[iptables] is already installed - nothing to do
+[2015-09-21T14:07:22-04:00] INFO: Processing execute[rebuild-iptables] action nothing (iptables::default line 26)
+[2015-09-21T14:07:22-04:00] DEBUG: Skipping execute[rebuild-iptables] due to action :nothing
+[2015-09-21T14:07:22-04:00] INFO: Processing directory[/etc/iptables.d] action create (iptables::default line 31)
+[2015-09-21T14:07:22-04:00] DEBUG: Providers for generic directory resource enabled on node include: [Chef::Provider::Directory]
+[2015-09-21T14:07:22-04:00] DEBUG: Provider for action create on resource directory[/etc/iptables.d] is Chef::Provider::Directory
+[2015-09-21T14:07:22-04:00] DEBUG: found target_mode == nil, so no mode was specified on resource, not managing mode
+[2015-09-21T14:07:22-04:00] DEBUG: found target_uid == nil, so no owner was specified on resource, not managing owner
+[2015-09-21T14:07:22-04:00] DEBUG: found target_gid == nil, so no group was specified on resource, not managing group
+[2015-09-21T14:07:22-04:00] INFO: Processing template[/usr/sbin/rebuild-iptables] action create (iptables::default line 35)
+[2015-09-21T14:07:22-04:00] DEBUG: Providers for generic template resource enabled on node include: [Chef::Provider::Template]
+[2015-09-21T14:07:22-04:00] DEBUG: Provider for action create on resource template[/usr/sbin/rebuild-iptables] is Chef::Provider::Template
+[2015-09-21T14:07:22-04:00] DEBUG: template[/usr/sbin/rebuild-iptables] checksumming file at /usr/sbin/rebuild-iptables.
+[2015-09-21T14:07:22-04:00] DEBUG: calculating checksum of /tmp/chef-rendered-template20150921-9361-7rg9yf to compare with 09a0f5dd88bf796a4cebcfc9a2c8d9f192fa3e3b229b93abf2bcac7da51dc48f
+[2015-09-21T14:07:22-04:00] DEBUG: found target_mode == current_mode, not updating mode
+[2015-09-21T14:07:22-04:00] DEBUG: found target_uid == nil, so no owner was specified on resource, not managing owner
+[2015-09-21T14:07:22-04:00] DEBUG: found target_gid == nil, so no group was specified on resource, not managing group
+[2015-09-21T14:07:22-04:00] INFO: Chef Run complete in 6.684412676 seconds
+[2015-09-21T14:07:22-04:00] INFO: Skipping removal of unused files from the cache
+[2015-09-21T14:07:22-04:00] INFO: Running report handlers
+[2015-09-21T14:07:22-04:00] INFO: Report handlers complete
+[2015-09-21T14:07:22-04:00] DEBUG: Forked instance successfully reaped (pid: 9361)
+[2015-09-21T14:07:22-04:00] DEBUG: Exiting
