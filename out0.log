@@ -1,0 +1,557 @@
+0.7 10.el6 x86_64 [] a base
+xorg-x11-drv-sisusb 0 0.9.6 10.el6 x86_64 [] a base
+xorg-x11-drv-synaptics 0 1.7.6 1.el6 x86_64 [] a base
+xorg-x11-drv-synaptics-devel 0 1.7.6 1.el6 i686 [] a base
+xorg-x11-drv-synaptics-devel 0 1.7.6 1.el6 x86_64 [] a base
+xorg-x11-drv-tdfx 0 1.4.5 10.el6 x86_64 [] a base
+xorg-x11-drv-trident 0 1.3.6 10.el6 x86_64 [] a base
+xorg-x11-drv-v4l 0 0.2.0 36.el6 x86_64 [] a base
+xorg-x11-drv-vesa 0 2.3.2 15.el6 x86_64 [] a base
+xorg-x11-drv-vmmouse 0 13.0.0 2.el6 x86_64 [] a base
+xorg-x11-drv-vmware 0 13.0.1 9.el6 x86_64 [] a base
+xorg-x11-drv-void 0 1.4.0 23.el6 x86_64 [] a base
+xorg-x11-drv-voodoo 0 1.2.5 10.el6 x86_64 [] a base
+xorg-x11-drv-wacom 0 0.23.0 4.el6 x86_64 [] a base
+xorg-x11-drv-wacom-devel 0 0.23.0 4.el6 i686 [] a base
+xorg-x11-drv-wacom-devel 0 0.23.0 4.el6 x86_64 [] a base
+xorg-x11-drv-xgi 0 1.6.0 20.20121114git.el6 x86_64 [] a base
+xorg-x11-font-utils 1 7.2 11.el6 x86_64 [] a base
+xorg-x11-fonts-100dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-75dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-1-100dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-1-75dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-14-100dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-14-75dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-15-100dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-15-75dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-2-100dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-2-75dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-9-100dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ISO8859-9-75dpi 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-Type1 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-cyrillic 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-ethiopic 0 7.2 11.el6 noarch [] a base
+xorg-x11-fonts-misc 0 7.2 11.el6 noarch [] a base
+xorg-x11-glamor 0 0.6.0 5.20140506gitf78901e.el6 i686 [] a base
+xorg-x11-glamor 0 0.6.0 5.20140506gitf78901e.el6 x86_64 [] a base
+xorg-x11-glamor-devel 0 0.6.0 5.20140506gitf78901e.el6 x86_64 [] a base
+xorg-x11-glamor-devel 0 0.6.0 5.20140506gitf78901e.el6 i686 [] a base
+xorg-x11-proto-devel 0 7.7 9.el6 noarch [] a base
+xorg-x11-resutils 0 7.1 10.el6 x86_64 [] a epel
+xorg-x11-server-Xdmx 0 1.15.0 36.el6.centos x86_64 [] a base
+xorg-x11-server-Xephyr 0 1.15.0 36.el6.centos x86_64 [] a base
+xorg-x11-server-Xnest 0 1.15.0 36.el6.centos x86_64 [] a base
+xorg-x11-server-Xorg 0 1.15.0 36.el6.centos x86_64 [] a base
+xorg-x11-server-Xvfb 0 1.15.0 36.el6.centos x86_64 [] a base
+xorg-x11-server-common 0 1.15.0 36.el6.centos x86_64 [] a base
+xorg-x11-server-devel 0 1.15.0 36.el6.centos x86_64 [] a base
+xorg-x11-server-devel 0 1.15.0 36.el6.centos i686 [] a base
+xorg-x11-server-source 0 1.15.0 36.el6.centos noarch [] a base
+xorg-x11-server-utils 0 7.7 2.el6 x86_64 [] a base
+xorg-x11-twm 1 1.0.3 5.1.el6 x86_64 [] a base
+xorg-x11-util-macros 0 1.17 2.el6 noarch [] a base
+xorg-x11-utils 0 7.5 6.el6 x86_64 [] a base
+xorg-x11-xauth 1 1.0.2 7.1.el6 x86_64 [] a base
+xorg-x11-xbitmaps 0 1.0.1 9.1.el6 x86_64 [] a base
+xorg-x11-xdm 1 1.1.6 14.1.el6 x86_64 [] a base
+xorg-x11-xinit 0 1.0.9 14.el6 x86_64 [] a base
+xorg-x11-xinit-session 0 1.0.9 14.el6 x86_64 [] a base
+xorg-x11-xkb-extras 0 7.7 4.el6 x86_64 [] a base
+xorg-x11-xkb-utils 0 7.7 4.el6 x86_64 [] a base
+xorg-x11-xkb-utils-devel 0 7.7 4.el6 x86_64 [] a base
+xorg-x11-xkb-utils-devel 0 7.7 4.el6 i686 [] a base
+xorg-x11-xtrans-devel 0 1.3.4 1.el6 noarch [] a base
+xosd 0 2.2.14 16.el6 i686 [] a epel
+xosd 0 2.2.14 16.el6 x86_64 [] a epel
+xosd-devel 0 2.2.14 16.el6 i686 [] a epel
+xosd-devel 0 2.2.14 16.el6 x86_64 [] a epel
+xournal 0 0.4.7 2.el6 x86_64 [] a epel
+xpa 0 2.1.12 1.el6 x86_64 [] a epel
+xpa-devel 0 2.1.12 1.el6 i686 [] a epel
+xpa-devel 0 2.1.12 1.el6 x86_64 [] a epel
+xpa-libs 0 2.1.12 1.el6 i686 [] a epel
+xpa-libs 0 2.1.12 1.el6 x86_64 [] a epel
+xpa-tcl 0 2.1.12 1.el6 x86_64 [] a epel
+xpaint 0 2.9.9.4 1.el6 x86_64 [] a epel
+xpdf 1 3.04 6.el6 x86_64 [] a epel
+xqilla 0 2.2.3 8.el6 i686 [] a base
+xqilla 0 2.2.3 8.el6 x86_64 [] a base
+xqilla-devel 0 2.2.3 8.el6 x86_64 [] a base
+xqilla-devel 0 2.2.3 8.el6 i686 [] a base
+xqilla-doc 0 2.2.3 8.el6 noarch [] a base
+xrdp 0 0.6.1 4.el6 x86_64 [] a epel
+xrestop 0 0.4 7.1.el6 x86_64 [] a base
+xrootd 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-client 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-client-devel 1 4.2.2 1.el6 i686 [] a epel
+xrootd-client-devel 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-client-libs 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-client-libs 1 4.2.2 1.el6 i686 [] a epel
+xrootd-compat 0 3.3.6 1.el6 x86_64 [] a epel
+xrootd-compat-client-libs 0 3.3.6 1.el6 x86_64 [] a epel
+xrootd-compat-client-libs 0 3.3.6 1.el6 i686 [] a epel
+xrootd-compat-libs 0 3.3.6 1.el6 x86_64 [] a epel
+xrootd-compat-libs 0 3.3.6 1.el6 i686 [] a epel
+xrootd-compat-server-libs 0 3.3.6 1.el6 x86_64 [] a epel
+xrootd-compat-server-libs 0 3.3.6 1.el6 i686 [] a epel
+xrootd-devel 1 4.2.2 1.el6 i686 [] a epel
+xrootd-devel 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-doc 1 4.2.2 1.el6 noarch [] a epel
+xrootd-fuse 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-libs 1 4.2.2 1.el6 i686 [] a epel
+xrootd-libs 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-private-devel 1 4.2.2 1.el6 noarch [] a epel
+xrootd-python 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-selinux 1 4.2.2 1.el6 noarch [] a epel
+xrootd-server 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-server-devel 1 4.2.2 1.el6 i686 [] a epel
+xrootd-server-devel 1 4.2.2 1.el6 x86_64 [] a epel
+xrootd-server-libs 1 4.2.2 1.el6 i686 [] a epel
+xrootd-server-libs 1 4.2.2 1.el6 x86_64 [] a epel
+xrotor 0 7.55 4.el6 x86_64 [] a epel
+xs 0 0.1 2.git9c19777.el6 x86_64 [] a epel
+xsane 0 0.997 8.el6 x86_64 [] a base
+xsane-common 0 0.997 8.el6 x86_64 [] a base
+xsane-gimp 0 0.997 8.el6 x86_64 [] a base
+xscreensaver 1 5.11 7.el6.respin1 x86_64 [] a epel
+xscreensaver-base 1 5.11 7.el6.respin1 x86_64 [] a epel
+xscreensaver-extras 1 5.11 7.el6.respin1 x86_64 [] a epel
+xscreensaver-extras-gss 1 5.11 7.el6.respin1 x86_64 [] a epel
+xscreensaver-gl-base 1 5.11 7.el6.respin1 x86_64 [] a epel
+xscreensaver-gl-extras 1 5.11 7.el6.respin1 x86_64 [] a epel
+xscreensaver-gl-extras-gss 1 5.11 7.el6.respin1 x86_64 [] a epel
+xsd 0 3.3.0 1.el6 x86_64 [] a epel
+xsd-doc 0 3.3.0 1.el6 x86_64 [] a epel
+xsel 0 1.2.0 8.el6 x86_64 [] a epel
+xsensors 0 0.73 1.el6 x86_64 [] a epel
+xsettings-kde 0 0.11 1.el6 x86_64 [] a base
+xstar 0 2.2.0 5.el6 x86_64 [] a epel
+xstar-xscreensaver 0 2.2.0 5.el6 x86_64 [] a epel
+xsupplicant 0 2.2.0 2.el6 i686 [] a epel
+xsupplicant 0 2.2.0 2.el6 x86_64 [] a epel
+xsupplicant-devel 0 2.2.0 2.el6 x86_64 [] a epel
+xsupplicant-devel 0 2.2.0 2.el6 i686 [] a epel
+xsupplicant-ui 0 2.2.0 2.el6 x86_64 [] a epel
+xteddy 0 2.0.1 5.el6 x86_64 [] a epel
+xterm 0 253 1.el6 x86_64 [] a base
+xulrunner 0 17.0.10 1.el6.centos i686 [] a base
+xulrunner 0 17.0.10 1.el6.centos x86_64 [] a base
+xulrunner-devel 0 17.0.10 1.el6.centos i686 [] a base
+xulrunner-devel 0 17.0.10 1.el6.centos x86_64 [] a base
+xvarstar 0 0.9 7.el6 x86_64 [] a epel
+xvattr 0 1.3 18.el6 x86_64 [] a base
+xvile 0 9.8p 1.el6 x86_64 [] a epel
+xvkbd 0 3.5 1.el6 x86_64 [] a epel
+xz 0 4.999.9 0.5.beta.20091007git.el6 x86_64 [] a base
+xz-devel 0 4.999.9 0.5.beta.20091007git.el6 x86_64 [] a base
+xz-devel 0 4.999.9 0.5.beta.20091007git.el6 i686 [] a base
+xz-libs 0 4.999.9 0.5.beta.20091007git.el6 x86_64 ['xz-libs(x86-64) = 4.999.9-0.5.beta.20091007git.el6', 'xz-libs = 4.999.9-0.5.beta.20091007git.el6', 'liblzma.so.0()(64bit)'] r base
+xz-libs 0 4.999.9 0.5.beta.20091007git.el6 i686 [] a base
+xz-lzma-compat 0 4.999.9 0.5.beta.20091007git.el6 x86_64 [] a base
+yad 0 0.27.0 1.el6 x86_64 [] a epel
+yadifa 0 2.0.6 1.el6 x86_64 [] a epel
+yadifa 0 2.0.6 1.el6 i686 [] a epel
+yadifa-devel 0 2.0.6 1.el6 i686 [] a epel
+yadifa-devel 0 2.0.6 1.el6 x86_64 [] a epel
+yadifa-libs 0 2.0.6 1.el6 i686 [] a epel
+yadifa-libs 0 2.0.6 1.el6 x86_64 [] a epel
+yadifa-tools 0 2.0.6 1.el6 x86_64 [] a epel
+yajl 0 1.0.7 3.el6 i686 [] a base
+yajl 0 1.0.7 3.el6 x86_64 [] a base
+yajl-devel 0 1.0.7 3.el6 x86_64 [] a base
+yajl-devel 0 1.0.7 3.el6 i686 [] a base
+yakuake 0 2.9.8 1.el6 x86_64 [] a epel
+yaml-cpp 0 0.3.0 1.el6 x86_64 [] a epel
+yaml-cpp 0 0.3.0 1.el6 i686 [] a epel
+yaml-cpp-devel 0 0.3.0 1.el6 x86_64 [] a epel
+yaml-cpp-devel 0 0.3.0 1.el6 i686 [] a epel
+yap 0 5.1.3 2.1.el6 x86_64 [] a base
+yap 0 5.1.3 2.1.el6 i686 [] a base
+yap-devel 0 5.1.3 2.1.el6 x86_64 [] a base
+yap-devel 0 5.1.3 2.1.el6 i686 [] a base
+yap-docs 0 5.1.3 2.1.el6 x86_64 [] a base
+yapet 0 1.0 1.el6 x86_64 [] a epel
+yasm 0 1.2.0 1.el6 x86_64 [] a epel
+yasm-devel 0 1.2.0 1.el6 i686 [] a epel
+yasm-devel 0 1.2.0 1.el6 x86_64 [] a epel
+yaz 0 3.0.49 1.el6 x86_64 [] a epel
+ycssmin 0 1.0.1 4.el6.2 noarch [] a epel
+yelp 0 2.28.1 17.el6_3 x86_64 [] a base
+ykclient 0 2.14 1.el6 x86_64 [] a epel
+ykclient 0 2.14 1.el6 i686 [] a epel
+ykclient-devel 0 2.14 1.el6 i686 [] a epel
+ykclient-devel 0 2.14 1.el6 x86_64 [] a epel
+ykpers 0 1.17.1 1.el6 i686 [] a epel
+ykpers 0 1.17.1 1.el6 x86_64 [] a epel
+ykpers-devel 0 1.17.1 1.el6 x86_64 [] a epel
+ykpers-devel 0 1.17.1 1.el6 i686 [] a epel
+yourls 0 1.7 3.20150410gitabc7d6c.el6 noarch [] a epel
+youtube-dl 0 2015.06.04.1 2.el6 noarch [] a epel
+yp-tools 0 2.9 12.el6 x86_64 [] a base
+ypbind 3 1.20.4 31.el6 x86_64 [] a base
+ypserv 0 2.19 26.el6_4.2 x86_64 [] a base
+ytnef 0 2.6 12.el6 x86_64 [] a epel
+yubikey-ksm 0 1.5 3.el6 noarch [] a epel
+yubikey-val 0 2.7 2.el6 noarch [] a epel
+yum 0 3.2.29 69.el6.centos noarch [] a base
+yum 0 3.2.29 60.el6.centos noarch ['config(yum) = 3.2.29-60.el6.centos', 'yum-allow-downgrade = 1.1.20-0.yum', 'yum-basearchonly = 1.1.9.yum', 'yum-plugin-allow-downgrade = 1.1.22-0.yum', 'yum-plugin-basearchonly = 1.1.9.yum', 'yum-plugin-protect-packages = 1.1.27-0.yum', 'yum-protect-packages = 1.1.27-0.yum', 'yum-skip-broken = 1.1.18.yum', 'yum = 3.2.29-60.el6.centos'] i installed
+yum-NetworkManager-dispatcher 0 1.1.30 30.el6 noarch [] a base
+yum-arch 0 2.2.2 9.el6 noarch [] a epel
+yum-cron 0 3.2.29 69.el6.centos noarch [] a base
+yum-dellsysid 0 2.2.26 3.el6 x86_64 [] a epel
+yum-metadata-parser 0 1.1.2 16.el6 x86_64 ['yum-metadata-parser(x86-64) = 1.1.2-16.el6', 'yum-metadata-parser = 1.1.2-16.el6', '_sqlitecache.so()(64bit)'] r base
+yum-plugin-aliases 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-auto-update-debug-info 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-changelog 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-downloadonly 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-fastestmirror 0 1.1.30 30.el6 noarch ['yum-plugin-fastestmirror = 1.1.30-30.el6', 'yum-fastestmirror = 1.1.30-30.el6', 'config(yum-plugin-fastestmirror) = 1.1.30-30.el6'] r base
+yum-plugin-filter-data 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-fs-snapshot 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-keys 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-list-data 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-local 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-merge-conf 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-post-transaction-actions 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-priorities 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-protectbase 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-ps 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-remove-with-leaves 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-rpm-warm-cache 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-security 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-show-leaves 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-tmprepo 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-tsflags 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-upgrade-helper 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-verify 0 1.1.30 30.el6 noarch [] a base
+yum-plugin-versionlock 0 1.1.30 30.el6 noarch [] a base
+yum-presto 0 0.6.2 1.el6 noarch [] a base
+yum-updateonboot 0 1.1.30 30.el6 noarch [] a base
+yum-utils 0 1.1.30 30.el6 noarch [] a base
+yumex 0 3.0.5 2.el6 noarch [] a epel
+z80asm 0 1.8 2.el6 x86_64 [] a epel
+z80dasm 0 1.1.2 1.el6 x86_64 [] a epel
+zabbix 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-agent 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-proxy 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-proxy-mysql 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-proxy-pgsql 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-proxy-sqlite3 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-server 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-server-mysql 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-server-pgsql 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-server-sqlite3 0 1.8.22 1.el6 x86_64 [] a epel
+zabbix-web 0 1.8.22 1.el6 noarch [] a epel
+zabbix-web-mysql 0 1.8.22 1.el6 noarch [] a epel
+zabbix-web-pgsql 0 1.8.22 1.el6 noarch [] a epel
+zabbix-web-sqlite3 0 1.8.22 1.el6 noarch [] a epel
+zabbix20 0 2.0.13 2.el6 x86_64 [] a epel
+zabbix20-agent 0 2.0.13 2.el6 x86_64 [] a epel
+zabbix20-proxy 0 2.0.13 2.el6 noarch [] a epel
+zabbix20-proxy-mysql 0 2.0.13 2.el6 x86_64 [] a epel
+zabbix20-proxy-pgsql 0 2.0.13 2.el6 x86_64 [] a epel
+zabbix20-proxy-sqlite3 0 2.0.13 2.el6 x86_64 [] a epel
+zabbix20-server 0 2.0.13 2.el6 noarch [] a epel
+zabbix20-server-mysql 0 2.0.13 2.el6 x86_64 [] a epel
+zabbix20-server-pgsql 0 2.0.13 2.el6 x86_64 [] a epel
+zabbix20-web 0 2.0.13 2.el6 noarch [] a epel
+zabbix20-web-mysql 0 2.0.13 2.el6 noarch [] a epel
+zabbix20-web-pgsql 0 2.0.13 2.el6 noarch [] a epel
+zabbix22 0 2.2.1 5.el6 x86_64 [] a epel
+zabbix22-agent 0 2.2.1 5.el6 x86_64 [] a epel
+zabbix22-dbfiles-mysql 0 2.2.1 5.el6 noarch [] a epel
+zabbix22-dbfiles-pgsql 0 2.2.1 5.el6 noarch [] a epel
+zabbix22-dbfiles-sqlite3 0 2.2.1 5.el6 noarch [] a epel
+zabbix22-proxy 0 2.2.1 5.el6 noarch [] a epel
+zabbix22-proxy-mysql 0 2.2.1 5.el6 x86_64 [] a epel
+zabbix22-proxy-pgsql 0 2.2.1 5.el6 x86_64 [] a epel
+zabbix22-proxy-sqlite3 0 2.2.1 5.el6 x86_64 [] a epel
+zabbix22-server 0 2.2.1 5.el6 noarch [] a epel
+zabbix22-server-mysql 0 2.2.1 5.el6 x86_64 [] a epel
+zabbix22-server-pgsql 0 2.2.1 5.el6 x86_64 [] a epel
+zabbix22-web 0 2.2.1 5.el6 noarch [] a epel
+zabbix22-web-mysql 0 2.2.1 5.el6 noarch [] a epel
+zabbix22-web-pgsql 0 2.2.1 5.el6 noarch [] a epel
+zanata-python-client 0 1.3.22 1.el6 noarch [] a epel
+zanata-util 0 0.2.9 1.el6 noarch [] a epel
+zarafa 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-archiver 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-client 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-client 0 7.1.13 1.el6 i686 [] a epel
+zarafa-common 0 7.1.13 1.el6 noarch [] a epel
+zarafa-contacts 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-dagent 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-devel 0 7.1.13 1.el6 i686 [] a epel
+zarafa-devel 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-gateway 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-ical 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-monitor 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-search 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-server 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-spooler 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-utils 0 7.1.13 1.el6 x86_64 [] a epel
+zarafa-webaccess 0 7.1.13 1.el6 noarch [] a epel
+zbackup 0 1.4.2 1.el6 x86_64 [] a epel
+zbar 0 0.10 7.el6 i686 [] a epel
+zbar 0 0.10 7.el6 x86_64 [] a epel
+zbar-devel 0 0.10 7.el6 i686 [] a epel
+zbar-devel 0 0.10 7.el6 x86_64 [] a epel
+zbar-gtk 0 0.10 7.el6 i686 [] a epel
+zbar-gtk 0 0.10 7.el6 x86_64 [] a epel
+zbar-gtk-devel 0 0.10 7.el6 x86_64 [] a epel
+zbar-gtk-devel 0 0.10 7.el6 i686 [] a epel
+zbar-pygtk 0 0.10 7.el6 x86_64 [] a epel
+zbar-qt 0 0.10 7.el6 i686 [] a epel
+zbar-qt 0 0.10 7.el6 x86_64 [] a epel
+zbar-qt-devel 0 0.10 7.el6 x86_64 [] a epel
+zbar-qt-devel 0 0.10 7.el6 i686 [] a epel
+zd1211-firmware 0 1.4 4.el6 noarch ['zd1211-firmware = 1.4-4.el6'] r base
+zenity 0 2.28.0 1.el6 x86_64 [] a base
+zeroinstall-injector 0 2.3.3 1.el6 noarch [] a epel
+zeromq 0 2.2.0 4.el6 i686 [] a epel
+zeromq 0 2.2.0 4.el6 x86_64 [] a epel
+zeromq-devel 0 2.2.0 4.el6 i686 [] a epel
+zeromq-devel 0 2.2.0 4.el6 x86_64 [] a epel
+zeromq3 0 3.2.5 1.el6 i686 [] a epel
+zeromq3 0 3.2.5 1.el6 x86_64 [] a epel
+zeromq3-devel 0 3.2.5 1.el6 i686 [] a epel
+zeromq3-devel 0 3.2.5 1.el6 x86_64 [] a epel
+zfs-fuse 0 0.6.9 6.20100709git.el6 x86_64 [] a epel
+zikula 0 1.2.3 1.el6 noarch [] a epel
+zile 0 2.4.9 1.el6 x86_64 [] a epel
+zip 0 3.0 1.el6 x86_64 [] a base
+zipios++ 0 0.1.5.9 8.el6 x86_64 [] a epel
+zipios++ 0 0.1.5.9 8.el6 i686 [] a epel
+zipios++-devel 0 0.1.5.9 8.el6 i686 [] a epel
+zipios++-devel 0 0.1.5.9 8.el6 x86_64 [] a epel
+zlib 0 1.2.3 29.el6 i686 [] a base
+zlib 0 1.2.3 29.el6 x86_64 ['zlib(x86-64) = 1.2.3-29.el6', 'zlib = 1.2.3-29.el6', 'libz.so.1(ZLIB_1.2.2.4)(64bit)', 'libz.so.1(ZLIB_1.2.2.3)(64bit)', 'libz.so.1(ZLIB_1.2.2)(64bit)', 'libz.so.1(ZLIB_1.2.0.8)(64bit)', 'libz.so.1(ZLIB_1.2.0.2)(64bit)', 'libz.so.1(ZLIB_1.2.0)(64bit)', 'libz.so.1()(64bit)'] r base
+zlib-devel 0 1.2.3 29.el6 x86_64 ['zlib-devel(x86-64) = 1.2.3-29.el6', 'zlib-devel = 1.2.3-29.el6', 'pkgconfig(zlib) = 1.2.3'] r base
+zlib-devel 0 1.2.3 29.el6 i686 [] a base
+zlib-static 0 1.2.3 29.el6 x86_64 [] a base
+zlibrary 0 0.12.10 5.el6 x86_64 [] a epel
+zlibrary 0 0.12.10 5.el6 i686 [] a epel
+zlibrary-devel 0 0.12.10 5.el6 x86_64 [] a epel
+zlibrary-devel 0 0.12.10 5.el6 i686 [] a epel
+zlibrary-ui-gtk 0 0.12.10 5.el6 x86_64 [] a epel
+zlibrary-ui-qt 0 0.12.10 5.el6 x86_64 [] a epel
+zmap 0 1.2.1 1.el6 x86_64 [] a epel
+znc 0 1.4 1.el6 x86_64 [] a epel
+znc-devel 0 1.4 1.el6 x86_64 [] a epel
+znc-devel 0 1.4 1.el6 i686 [] a epel
+znc-modperl 0 1.4 1.el6 x86_64 [] a epel
+znc-modtcl 0 1.4 1.el6 x86_64 [] a epel
+zsh 0 4.3.11 4.el6.centos x86_64 [] a base
+zsh-html 0 4.3.11 4.el6.centos x86_64 [] a base
+zsh-lovers 0 0.9.0 1.el6 noarch [] a epel
+zvbi 0 0.2.33 6.el6 x86_64 [] a epel
+zvbi 0 0.2.33 6.el6 i686 [] a epel
+zvbi-devel 0 0.2.33 6.el6 i686 [] a epel
+zvbi-devel 0 0.2.33 6.el6 x86_64 [] a epel
+zvbi-fonts 0 0.2.33 6.el6 noarch [] a epel
+zziplib 0 0.13.62 1.el6 i686 [] a epel
+zziplib 0 0.13.62 1.el6 x86_64 [] a epel
+zziplib-devel 0 0.13.62 1.el6 i686 [] a epel
+zziplib-devel 0 0.13.62 1.el6 x86_64 [] a epel
+zziplib-utils 0 0.13.62 1.el6 x86_64 [] a epel
+[2015-09-21T14:03:38-04:00] DEBUG: yum_package[iptables] checking yum info for iptables
+[2015-09-21T14:03:38-04:00] DEBUG: yum_package[iptables] installed version: ["1.4.7-14.el6"] candidate version: 1.4.7-16.el6
+[2015-09-21T14:03:38-04:00] DEBUG: yum_package[iptables] iptables 1.4.7-14.el6 already installed
+[2015-09-21T14:03:38-04:00] DEBUG: yum_package[iptables] is already installed - nothing to do
+ (up to date)
+  * execute[rebuild-iptables] action nothing[2015-09-21T14:03:38-04:00] INFO: Processing execute[rebuild-iptables] action nothing (iptables::default line 26)
+ (skipped due to action :nothing)
+[2015-09-21T14:03:38-04:00] DEBUG: Skipping execute[rebuild-iptables] due to action :nothing
+  * directory[/etc/iptables.d] action create[2015-09-21T14:03:38-04:00] INFO: Processing directory[/etc/iptables.d] action create (iptables::default line 31)
+[2015-09-21T14:03:38-04:00] DEBUG: Providers for generic directory resource enabled on node include: [Chef::Provider::Directory]
+[2015-09-21T14:03:38-04:00] DEBUG: Provider for action create on resource directory[/etc/iptables.d] is Chef::Provider::Directory
+[2015-09-21T14:03:38-04:00] INFO: directory[/etc/iptables.d] created directory /etc/iptables.d
+
+    - create new directory /etc/iptables.d[2015-09-21T14:03:38-04:00] DEBUG: found target_mode == nil, so no mode was specified on resource, not managing mode
+[2015-09-21T14:03:38-04:00] DEBUG: found target_uid == nil, so no owner was specified on resource, not managing owner
+[2015-09-21T14:03:38-04:00] DEBUG: found target_gid == nil, so no group was specified on resource, not managing group
+[2015-09-21T14:03:38-04:00] DEBUG: selinux utilities can not be found. Skipping selinux permission fixup.
+
+  * template[/usr/sbin/rebuild-iptables] action create[2015-09-21T14:03:38-04:00] INFO: Processing template[/usr/sbin/rebuild-iptables] action create (iptables::default line 35)
+[2015-09-21T14:03:38-04:00] DEBUG: Providers for generic template resource enabled on node include: [Chef::Provider::Template]
+[2015-09-21T14:03:38-04:00] DEBUG: Provider for action create on resource template[/usr/sbin/rebuild-iptables] is Chef::Provider::Template
+[2015-09-21T14:03:38-04:00] DEBUG: touching /usr/sbin/rebuild-iptables to create it
+[2015-09-21T14:03:38-04:00] INFO: template[/usr/sbin/rebuild-iptables] created file /usr/sbin/rebuild-iptables
+
+    - create new file /usr/sbin/rebuild-iptables[2015-09-21T14:03:38-04:00] DEBUG: calculating checksum of /tmp/chef-rendered-template20150921-9140-s92qp to compare with
+[2015-09-21T14:03:38-04:00] DEBUG: running: diff -u /usr/sbin/rebuild-iptables /tmp/chef-rendered-template20150921-9140-s92qp
+[2015-09-21T14:03:38-04:00] DEBUG: reading modes from /usr/sbin/rebuild-iptables file
+[2015-09-21T14:03:38-04:00] DEBUG: applying mode = 644, uid = 0, gid = 0 to /tmp/chef-rendered-template20150921-9140-s92qp
+[2015-09-21T14:03:38-04:00] DEBUG: moving temporary file /tmp/chef-rendered-template20150921-9140-s92qp into place at /usr/sbin/rebuild-iptables
+[2015-09-21T14:03:38-04:00] INFO: template[/usr/sbin/rebuild-iptables] updated file contents /usr/sbin/rebuild-iptables
+
+    - update content in file /usr/sbin/rebuild-iptables from none to 09a0f5
+    --- /usr/sbin/rebuild-iptables      2015-09-21 14:03:38.110754915 -0400
+    +++ /tmp/chef-rendered-template20150921-9140-s92qp  2015-09-21 14:03:38.109754415 -0400
+    @@ -1 +1,147 @@
+    +#!/opt/chef/embedded/bin/ruby -w
+    +
+    +#
+    +# rebuild-iptables.rb -- Construct an iptables rules file from fragments.
+    +#
+    +# Written by Phil Cohen <github@phlippers.net>
+    +# Copyright 2011, Phil Cohen
+    +#
+    +# Constructs an iptables rules file from the prefix, standard, and suffix
+    +# files in the iptables configuration area, adding any additional modules
+    +# specified in the command line, and prints the resulting iptables rules to
+    +# standard output (suitable for saving into /var/lib/iptables or some other
+    +# appropriate location on the system).
+    +
+    +##############################################################################
+    +# Modules and declarations
+    +##############################################################################
+    +
+    +# Path to the iptables template area.
+    +TEMPLATE_PATH = "/etc/iptables.d"
+    +
+    +##############################################################################
+    +# Installation
+    +##############################################################################
+    +
+    +# Read in a file, processing includes as required.
+    +def read_iptables(file, table = :filter)
+    +  file = File.join(TEMPLATE_PATH, file) unless File.dirname(file) =~ /iptables\.d/
+    +  rule = File.readlines(file).map{ |line| line.chomp }
+    +  rule.each do |line|
+    +    if line =~ /^\s*include\s+(\S+)$/
+    +      read_iptables($1, table)
+    +    elsif line =~ /^\s*\*([a-z]+)\s*$/
+    +      table = $1.to_sym
+    +    elsif line =~ /^\s*:([-a-zA-Z0-9_]+)(?:\s+([A-Z]+(?:\s*\[.*?\])))?$/
+    +      @data[table][:chains][$1] = $2 || '-'
+    +    elsif line !~ /^\s*COMMIT\s*$/
+    +      #detect new chains
+    +      if chain = line.match(/\-[ADRILFZN]\s+([-a-zA-Z0-9_]+)\s/)
+    +        @data[table][:chains][chain[1]] ||= '-'
+    +      end
+    +      @data[table][:rules].push line
+    +    end
+    +  end
+    +end
+    +
+    +# Write a file carefully.
+    +def write_iptables(file, data)
+    +  File.open("#{file}.new", "w") { |f| f.write(data) }
+    +  File.rename("#{file}.new", file)
+    +end
+    +
+    +# Install iptables on a Red Hat system. Takes the new iptables data.
+    +def install_redhat(data)
+    +  write_iptables("/etc/sysconfig/iptables", data)
+    +  system("/sbin/service", "iptables", "restart")
+    +end
+    +
+    +# Install iptables on a Debian system. Takes the new iptables data.
+    +def install_debian(data)
+    +  Dir.mkdir("/etc/iptables") unless File.directory?("/etc/iptables")
+    +  write_iptables("/etc/iptables/general", data)
+    +  system("/sbin/iptables-restore < /etc/iptables/general")
+    +end
+    +
+    +##############################################################################
+    +# Main routine
+    +##############################################################################
+    +
+    +@data = {
+    +    :filter => {
+    +        :chains => {
+    +            'INPUT'   => 'ACCEPT [0,0]',
+    +            'FORWARD' => 'ACCEPT [0,0]',
+    +            'OUTPUT'  => 'ACCEPT [0,0]'
+    +        },
+    +        :rules => []
+    +    },
+    +    :mangle => {
+    +        :chains => {
+    +            'PREROUTING'  => 'ACCEPT [0,0]',
+    +            'INPUT'       => 'ACCEPT [0,0]',
+    +            'FORWARD'     => 'ACCEPT [0,0]',
+    +            'OUTPUT'      => 'ACCEPT [0,0]',
+    +            'POSTROUTING' => 'ACCEPT [0,0]'
+    +        },
+    +        :rules => []
+    +    },
+    +    :nat => {
+    +        :chains => {
+    +            'PREROUTING'  => 'ACCEPT [0,0]',
+    +            'POSTROUTING' => 'ACCEPT [0,0]',
+    +            'OUTPUT'      => 'ACCEPT [0,0]'
+    +        },
+    +        :rules => [],
+    +    },
+    +    :raw => {
+    +        :chains => {
+    +            'PREROUTING'  => 'ACCEPT [0,0]',
+    +            'OUTPUT'      => 'ACCEPT [0,0]'
+    +        },
+    +        :rules => [],
+    +    },
+    +    :security => {
+    +        :chains => {
+    +            'INPUT'   => 'ACCEPT [0,0]',
+    +            'FORWARD' => 'ACCEPT [0,0]',
+    +            'OUTPUT'  => 'ACCEPT [0,0]'
+    +        },
+    +        :rules => []
+    +    }
+    +}
+    +
+    +templates = Dir["#{TEMPLATE_PATH}/*"].sort.delete_if do |template|
+    +  %w[prefix suffix postfix].include?(File.basename(template))
+    +end
+    +
+    +templates.unshift 'prefix' if File.exist? "#{TEMPLATE_PATH}/prefix"
+    +templates.push 'suffix' if File.exist? "#{TEMPLATE_PATH}/suffix"
+    +templates.push 'postfix' if File.exist? "#{TEMPLATE_PATH}/postfix"
+    +
+    +templates.each { |template| read_iptables(template) }
+    +
+    +iptables_rules = ""
+    +@data.each do |table, table_data|
+    +  if table_data[:rules].any?
+    +    iptables_rules << "*#{table.to_s}\n"
+    +    table_data[:chains].each do |chain, rule|
+    +      iptables_rules << ":#{chain} #{rule}\n"
+    +    end
+    +    iptables_rules << table_data[:rules].join("\n")
+    +    iptables_rules << "\nCOMMIT\n"
+    +  end
+    +end
+    +
+    +if File.exist?("/etc/debian_version")
+    +  install_debian(iptables_rules)
+    +elsif File.exist?("/etc/redhat-release")
+    +  install_redhat(iptables_rules)
+    +elsif File.exist?("/etc/system-release") # Amazon Linux
+    +  install_redhat(iptables_rules)
+    +else
+    +  raise "#{$0}: cannot figure out whether this is Red Hat or Debian\n";
+    +end
+    +
+    +exit 0[2015-09-21T14:03:38-04:00] DEBUG: found current_mode == nil, so we are creating a new file, updating mode
+[2015-09-21T14:03:38-04:00] DEBUG: found current_mode == nil, so we are creating a new file, updating mode
+[2015-09-21T14:03:38-04:00] DEBUG: found target_uid == nil, so no owner was specified on resource, not managing owner
+[2015-09-21T14:03:38-04:00] DEBUG: found target_gid == nil, so no group was specified on resource, not managing group
+[2015-09-21T14:03:38-04:00] DEBUG: found target_uid == nil, so no owner was specified on resource, not managing owner
+[2015-09-21T14:03:38-04:00] DEBUG: found target_gid == nil, so no group was specified on resource, not managing group
+[2015-09-21T14:03:38-04:00] DEBUG: found current_mode == nil, so we are creating a new file, updating mode
+[2015-09-21T14:03:38-04:00] INFO: template[/usr/sbin/rebuild-iptables] mode changed to 755
+
+    - change mode from '' to '0755'[2015-09-21T14:03:38-04:00] DEBUG: selinux utilities can not be found. Skipping selinux permission fixup.
+
+[2015-09-21T14:03:38-04:00] INFO: Chef Run complete in 8.354081481 seconds
+[2015-09-21T14:03:38-04:00] INFO: Skipping removal of unused files from the cache
+
+Running handlers:
+[2015-09-21T14:03:38-04:00] INFO: Running report handlers
+Running handlers complete
+[2015-09-21T14:03:38-04:00] INFO: Report handlers complete
+Chef Client finished, 2/3 resources updated in 11.697026286 seconds
+[2015-09-21T14:03:38-04:00] DEBUG: Forked instance successfully reaped (pid: 9140)
+[2015-09-21T14:03:38-04:00] DEBUG: Exiting
+
