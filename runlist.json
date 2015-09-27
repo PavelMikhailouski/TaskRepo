@@ -1,0 +1,3 @@
+{
+"run_list": ["recipe[ark]", "recipe[java_se::default]", "recipe[jboss::default]", "recipe[jboss::deploy]"]
+}

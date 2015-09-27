@@ -1,0 +1,10 @@
+name 'jboss'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures jboss'
+long_description 'Installs/Configures jboss'
+version '0.1.0'
+
+depends 'ark', '>= 0.5.0'
+depends 'java_se', '>= 7.79.3'
