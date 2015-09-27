@@ -4,9 +4,14 @@
 #
 # Copyright (c) 2015 The Authors, All Rights Reserved.
 
-ark 'testweb' do
-  url 'http://www.cumulogic.com/download/Apps/testweb.zip'
-  #checksum '596c0b7cd48d332d61bb6aaf483405e8b24c48d629926b9cbf4c425a8a66db96'
+ark 'hudson' do
+  url node['chef-ops']['application_repo'] 
   prefix_root '/usr/local/jboss/server/default/deploy'
-  not_if {::File.exists?('/usr/local/jboss/server/default/deploy/testweb')}
+  not_if {::File.exists?('/usr/local/jboss/server/default/deploy/hudson')}
+end
+link '/usr/local/jboss/server/default/deploy/hudson' do
+  to '/usr/local/jboss/server/default/deploy/hudson-1'
+end
+cookbook_file '/usr/local/jboss/server/default/deploy/hudson/hudson.xml' do
+  source 'hudson.xml'
 end
